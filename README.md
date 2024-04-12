@@ -17,7 +17,7 @@ Visual components and Python
 
 
 ## Experiment:
-
+![OUTPUT](<maths 6.jpg>)
 ## Program:
 
 Developed by:MARELLA HASINI
